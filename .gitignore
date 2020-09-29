@@ -1,0 +1,7 @@
+.env
+.idea
+web/vendor
+web/.env
+web/node_modules
+web/public/css
+web/public/js
